@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Akilraj-N-Portfolio/static/css/main.21d37fc6.css",
+    "main.js": "/Akilraj-N-Portfolio/static/js/main.f1d9bab8.js",
+    "static/js/453.dcf0b481.chunk.js": "/Akilraj-N-Portfolio/static/js/453.dcf0b481.chunk.js",
+    "static/media/HomeImage.jpg": "/Akilraj-N-Portfolio/static/media/HomeImage.68f9153d9909a483602e.jpg",
+    "static/media/Etch-a-Sketch Color Game.png": "/Akilraj-N-Portfolio/static/media/Etch-a-Sketch Color Game.da8c4c869549f5fd1e9c.png",
+    "static/media/Dora-ai.png": "/Akilraj-N-Portfolio/static/media/Dora-ai.05d0f476e4521be245a4.png",
+    "static/media/Canva.png": "/Akilraj-N-Portfolio/static/media/Canva.91a390aad09777e7a30f.png",
+    "static/media/Figma.png": "/Akilraj-N-Portfolio/static/media/Figma.21c237bb7ad645a640ff.png",
+    "static/media/ROCK PAPER SCISSOR.png": "/Akilraj-N-Portfolio/static/media/ROCK PAPER SCISSOR.d7a0e16180a7056bc7e6.png",
+    "static/media/Navimg.png": "/Akilraj-N-Portfolio/static/media/Navimg.11bc86f49e734a4b9563.png",
+    "static/media/SIMPLE CALCULATOR.png": "/Akilraj-N-Portfolio/static/media/SIMPLE CALCULATOR.2571cfe8439da24a3991.png",
+    "static/media/slick.svg": "/Akilraj-N-Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Akilraj-N-Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Akilraj-N-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Akilraj-N-Portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Akilraj-N-Portfolio/index.html",
+    "main.21d37fc6.css.map": "/Akilraj-N-Portfolio/static/css/main.21d37fc6.css.map",
+    "main.f1d9bab8.js.map": "/Akilraj-N-Portfolio/static/js/main.f1d9bab8.js.map",
+    "453.dcf0b481.chunk.js.map": "/Akilraj-N-Portfolio/static/js/453.dcf0b481.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21d37fc6.css",
+    "static/js/main.f1d9bab8.js"
+  ]
+}
