@@ -1,9 +1,9 @@
-# Portfolio Website
+# My Portfolio Website
 
-This repository contains the source code for a portfolio website built with React. The website showcases various projects, skills, and contact information .
+This repository contains the source code for my portfolio website built with React. The website showcases various projects, skills, and contact information.
 
 ## Live Server
-https://akilraj-1153.github.io/Akilraj-N-Portfolio/
+[View live](https://akilraj-1153.github.io/Akilraj-N-Portfolio/)
 
 ## Overview
 
@@ -11,10 +11,10 @@ The portfolio website consists of the following components:
 
 - **App**: The main component that handles routing and renders other components.
 - **NavBar**: Displays the navigation bar with links to different sections of the website.
-- **Home**: Introductory section with a greeting, developer's name, role, and an image.
+- **Home**: Introductory section with a greeting, my name, role, and an image.
 - **Project**: Displays projects with images, titles, descriptions, and links.
-- **Skill**: Showcases developer's skills using images.
-- **Contact**: Provides a form for users to send messages to the developer.
+- **Skill**: Showcases my skills using images.
+- **Contact**: Provides a form for users to send messages to me.
 
 Additional libraries and tools used:
 
@@ -46,4 +46,4 @@ To run the application locally:
 
 ## Conclusion
 
-This documentation provides an overview of the portfolio website, its components, libraries, deployment process, and instructions for local development. It serves as a guide for developers to understand and extend the functionality of the portfolio.
+This documentation provides an overview of my portfolio website, its components, libraries, deployment process, and instructions for local development. It serves as a guide for anyone interested in understanding and extending the functionality of my portfolio.
