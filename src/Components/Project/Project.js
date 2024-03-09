@@ -36,18 +36,21 @@ function Project({ProjectImages}) {
     'Rock paper scissor',
     'Etch-a-Sketch Color Game',
     'SIMPLE CALCULATOR',
+    'FLAMES'
   ];
 
   const projDescriptions = [
     'Enjoy a digital twist on the classic Rock, Paper, Scissors game. Crafted with HTML, CSS, and JavaScript, this interactive experience brings timeless fun to your fingertips.',
-    'Immerse yourself in nostalgia with our digital Etch-a-Sketch Color Game. Using HTML, CSS, and JavaScript, this game transforms the classic toy into a vibrant canvas, allowing you to draw and paint with a virtual twist.',
+    'Immerse yourself in nostalgia with our digital Etch-a-Sketch Color Game. Using HTML, CSS, and JavaScript, this game transforms the classic toy into a vibrant canvas, allowing you to draw and paint with a virtual twist.',  
     'Streamline your calculations with our sleek and user-friendly Simple Calculator. Developed using HTML, CSS, and JavaScript, it offers a smooth interface for basic arithmetic, making number crunching a breeze.',
+    'FLAMES is a fun game that predicts the relationship between two people based on the acronym: Friends, Lovers, Affectionate, Marriage, Enemies, Siblings.'
   ];
 
   const projLinks = [
     'https://akilraj-1153.github.io/React-js-Rock_paper_scissors/',
     'https://akilraj-1153.github.io/Odin-Student-Etch-a-Sketch/',
-    'https://akilraj-1153.github.io/Odin-Student-Calculator/'
+    'https://akilraj-1153.github.io/Odin-Student-Calculator/',
+    'https://akilraj-1153.github.io/Flames-WebApp-by-AKIL/'
   ];
   return (
     <div className='projcontainer  font-all  text-white h-[90vh] flex flex-col w-screen sm:flex-row'>
@@ -58,6 +61,7 @@ function Project({ProjectImages}) {
               <dd className='mt-5'>Rock paper scissors</dd>
               <dd className=''>Etch-a-Sketch</dd>
               <dd className=''>Calculator</dd>
+              <dd className=''>Flames</dd>
           </dl>
           </div>
       </div>

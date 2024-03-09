@@ -15,9 +15,12 @@ import img3 from './Assets/Figma.png'
 import Projectimg1 from './Assets/ROCK PAPER SCISSOR.png'
 import Projectimg2 from './Assets/SIMPLE CALCULATOR.png'
 import Projectimg3 from './Assets/Etch-a-Sketch Color Game.png'
+import Projectimg4 from './Assets/Flames.png'
+
+
 function App() {
   const Skillimages=[img1,img2,img3];
-  const ProjectImages = [Projectimg1, Projectimg2, Projectimg3];
+  const ProjectImages = [Projectimg1, Projectimg2, Projectimg3,Projectimg4];
   const location = useLocation();
   const [viewportWidth, setViewportWidth] = useState(window.innerWidth);
 
