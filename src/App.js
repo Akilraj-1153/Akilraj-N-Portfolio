@@ -13,8 +13,8 @@ import img1 from './Assets/Dora-ai.png'
 import img2 from './Assets/Canva.png'
 import img3 from './Assets/Figma.png'
 import Projectimg1 from './Assets/ROCK PAPER SCISSOR.png'
-import Projectimg2 from './Assets/SIMPLE CALCULATOR.png'
-import Projectimg3 from './Assets/Etch-a-Sketch Color Game.png'
+import Projectimg3 from './Assets/SIMPLE CALCULATOR.png'
+import Projectimg2 from './Assets/Etch-a-Sketch Color Game.png'
 import Projectimg4 from './Assets/Flames.png'
 
 
